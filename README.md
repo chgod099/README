@@ -6,8 +6,8 @@
 
   
 # 访问量 :cn:
-![](https://visitor-badge.glitch.me/badge?page_id=)
+![](https://visitor-badge.glitch.me/badge?page_id=zcmgod)
 
-![](http://profile-counter.glitch.me//count.svg)
+![](http://profile-counter.glitch.me/zcmgod/count.svg)
 
 ![](http://moecount.glitch.me/get/@?theme=)
